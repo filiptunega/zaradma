@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  zaradma
+//  Zarad ma!
 //
 //  Created by Filip Tunega on 23/04/2026.
 //
